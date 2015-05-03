@@ -56,4 +56,4 @@ $ python server
 
 ## DOCUMENTATION
 
-[Soya API DOCUMENTATION](https://github.com/streethacker/soya/blob/develop/doc/documentation.md)
+[Soya API DOCUMENTATION](https://github.com/awesomezdt/soya/blob/develop/doc/documentation.md)
